@@ -1,0 +1,10 @@
+{
+    "include": [
+        "default/hiragana"
+    ],
+    "define": {
+        "keymap": {
+            "Henkan": "start-preedit-no-delete"
+        }
+    }
+}
